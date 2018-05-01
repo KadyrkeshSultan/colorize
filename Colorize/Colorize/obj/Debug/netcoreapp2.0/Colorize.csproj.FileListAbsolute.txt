@@ -1,0 +1,11 @@
+C:\Users\Sultan\Source\Repos\Colorize\Colorize\Colorize\bin\Debug\netcoreapp2.0\Colorize.deps.json
+C:\Users\Sultan\Source\Repos\Colorize\Colorize\Colorize\bin\Debug\netcoreapp2.0\Colorize.runtimeconfig.json
+C:\Users\Sultan\Source\Repos\Colorize\Colorize\Colorize\bin\Debug\netcoreapp2.0\Colorize.runtimeconfig.dev.json
+C:\Users\Sultan\Source\Repos\Colorize\Colorize\Colorize\bin\Debug\netcoreapp2.0\Colorize.dll
+C:\Users\Sultan\Source\Repos\Colorize\Colorize\Colorize\obj\Debug\netcoreapp2.0\Colorize.csprojResolveAssemblyReference.cache
+C:\Users\Sultan\Source\Repos\Colorize\Colorize\Colorize\obj\Debug\netcoreapp2.0\Colorize.csproj.CoreCompileInputs.cache
+C:\Users\Sultan\Source\Repos\Colorize\Colorize\Colorize\obj\Debug\netcoreapp2.0\Colorize.AssemblyInfoInputs.cache
+C:\Users\Sultan\Source\Repos\Colorize\Colorize\Colorize\obj\Debug\netcoreapp2.0\Colorize.AssemblyInfo.cs
+C:\Users\Sultan\Source\Repos\Colorize\Colorize\Colorize\bin\Debug\netcoreapp2.0\Colorize.pdb
+C:\Users\Sultan\Source\Repos\Colorize\Colorize\Colorize\obj\Debug\netcoreapp2.0\Colorize.dll
+C:\Users\Sultan\Source\Repos\Colorize\Colorize\Colorize\obj\Debug\netcoreapp2.0\Colorize.pdb
